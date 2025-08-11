@@ -2,9 +2,10 @@
 
 A modern, interactive web application that simulates real-time vehicle movement on a map. Built with React, TypeScript, and Leaflet for smooth animations and professional UI design.
 
-![Vehicle Tracking Demo](https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbbfe086-f4f8-4ba7-824f-65e0121aab82" />
 
-## 🚀 Features
+
+## Features
 
 ### Core Functionality
 - **Real-time Vehicle Simulation**: Smooth vehicle movement along predefined routes
@@ -24,7 +25,7 @@ A modern, interactive web application that simulates real-time vehicle movement 
 - **Interactive Help**: Built-in help panel with detailed usage instructions
 - **Professional Styling**: Production-ready design with attention to detail
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Build Tool**: Vite for fast development and optimized builds
@@ -33,7 +34,7 @@ A modern, interactive web application that simulates real-time vehicle movement 
 - **Icons**: Lucide React for consistent iconography
 - **State Management**: React hooks for local state management
 
-## 📦 Installation
+## Installation
 
 1. **Clone or download the project**
 2. **Install dependencies**:
@@ -46,7 +47,7 @@ A modern, interactive web application that simulates real-time vehicle movement 
    ```
 4. **Open your browser** and navigate to the provided local URL
 
-## 🎮 How to Use
+## How to Use
 
 ### Quick Start
 1. Click the **Play** button to start the vehicle simulation
@@ -75,7 +76,7 @@ A modern, interactive web application that simulates real-time vehicle movement 
 ### Help System
 Click the **Help** button (blue circle with question mark) in the bottom-right corner for detailed instructions and feature explanations.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -92,7 +93,7 @@ public/
 └── dummy-route.json       # Sample GPS route data
 ```
 
-## 🗺️ Route Data Format
+##  Route Data Format
 
 The application uses a JSON file with GPS coordinates and timestamps:
 
@@ -116,7 +117,7 @@ The application uses a JSON file with GPS coordinates and timestamps:
 - **longitude**: GPS longitude coordinate (required)
 - **timestamp**: ISO 8601 timestamp (optional, used for speed calculation)
 
-## 🎨 Design Features
+## Design Features
 
 ### Visual Design
 - **Modern Dark Theme**: Professional dark background with blue accents
@@ -135,21 +136,21 @@ The application uses a JSON file with GPS coordinates and timestamps:
 - **Body Text**: Optimized for readability with proper contrast
 - **Monospace**: Used for coordinates and technical data
 
-## 🚀 Performance Features
+## Performance Features
 
 - **Smooth Animation**: 60fps vehicle movement with interpolation
 - **Efficient Rendering**: Optimized map updates and DOM manipulation
 - **Responsive Loading**: Fast initial load with progressive enhancement
 - **Memory Management**: Proper cleanup of intervals and event listeners
 
-## 📱 Mobile Support
+## Mobile Support
 
 - **Touch-Friendly**: Large buttons and touch targets
 - **Responsive Grid**: Layout adapts to mobile screens
 - **Optimized Performance**: Smooth animations on mobile devices
 - **Accessible Design**: Proper contrast ratios and readable text
 
-## 🔧 Development
+## Development
 
 ### Available Scripts
 - `npm run dev` - Start development server
@@ -163,7 +164,7 @@ The application uses a JSON file with GPS coordinates and timestamps:
 - **Map Tiles**: Change the OpenStreetMap tiles to other providers
 - **Animation Speed**: Adjust timing in the VehicleMap component
 
-## 🌟 Key Features Explained
+## Key Features Explained
 
 ### Real-Time Simulation
 The application simulates real-time vehicle movement by:
@@ -185,15 +186,6 @@ The interface features:
 - Smooth hover effects and micro-interactions
 - Consistent spacing and typography
 - Professional color scheme and visual hierarchy
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to improve the application.
-
 ---
 
 **Built with ❤️ using React, TypeScript, and Leaflet**
