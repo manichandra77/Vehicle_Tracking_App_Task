@@ -187,5 +187,3 @@ The interface features:
 - Consistent spacing and typography
 - Professional color scheme and visual hierarchy
 ---
-
-**Built with ❤️ using React, TypeScript, and Leaflet**
